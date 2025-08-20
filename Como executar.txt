@@ -1,0 +1,1 @@
+No linux  ou no terminal do vscode navegue até esta pasta via cd diretorio/da/pasta. e digite o comando make run
