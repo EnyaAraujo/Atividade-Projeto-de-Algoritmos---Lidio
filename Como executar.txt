@@ -1,0 +1,1 @@
+No vscode abra essa pasta e execute o arquivo main.c. No linux, basta navegar ate esta pasta e executar gcc main.c
